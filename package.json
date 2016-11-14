@@ -1,0 +1,16 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "Curso de node do Udemy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Corrêa",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "mysql": "^2.12.0"
+  }
+}
